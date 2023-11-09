@@ -1,5 +1,5 @@
 # Chat-Application
-A chat room application that is made in C++. Supports chatting among multiple clients.
+A simple yet amazing chat room application that is made in C++. Supports chatting among multiple clients.
 
 ## How to run?
 1. __Clone__ or __Download__ this respository.
