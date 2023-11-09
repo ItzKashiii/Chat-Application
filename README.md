@@ -20,7 +20,7 @@ g++ client.cpp -lpthread -o client
 ```json
 ./server
 ```
-4. Open another terminal and type this command in the terminal and run the client;
+4. Open another terminal and type this command in the terminal to run the client;
 ```json
 ./client
 ```
